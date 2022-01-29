@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhristovcode (Borislav Hristov)
 - 👀 I’m interested in Robotics, AI, ML, nanotech, space, physics, additive manufacturing, etc...
-- 🌱 I’m currently studying Mechanical Engineering, Python, C++, ROS, Arduino
+- 🌱 I’m currently studying Mechanical Engineering, Python, C, C++, ROS..
 - 💞️ I’m looking to collaborate on any project based on my interests
 - 📫 How to reach me bhristovcode@gmail.com
 
